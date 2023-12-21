@@ -1,6 +1,6 @@
 ---
 title: "Weather App"
-excerpt: "A window program created in Java using JavaFx<br/><img src='/images/500x300.png'>"
+excerpt: "A window program created in Java using JavaFx.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 

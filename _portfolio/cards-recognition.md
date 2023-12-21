@@ -1,6 +1,6 @@
 ---
 title: "Recognition of cards in photos"
-excerpt: "The program was developed as part of a Digital Image Processing course project<br/><img src='/images/500x300.png'>"
+excerpt: "Program capable of recognizing cards in an image.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
