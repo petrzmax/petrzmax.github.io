@@ -1,6 +1,6 @@
 ---
 title: "Personal Budget"
-excerpt: "A window program created in Java using JavaFx<br/><img src='/images/500x300.png'>"
+excerpt: "An application for monitoring incomes and expenses<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
