@@ -16,7 +16,7 @@ Scripts were written in C#.
 
 Information about the game was featured on **Radio Eska** and **TVP3 Warsaw**.
 
-The game is available to download [here](https://drive.google.com/file/d/1Xp-dpzfJKfO-W5s0mQzhQBJX54G49L4C/view).
+The game is available to download [here](https://www.indiedb.com/games/wheelchair-simulator).
 
 A video showcasing my engineering thesis and the stories associated with it.
 
