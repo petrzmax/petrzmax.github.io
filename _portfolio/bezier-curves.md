@@ -1,6 +1,7 @@
 ---
 title: "Bézier Curves"
 excerpt: "A game that creatively utilizes Bézier curves.<br/><img src='/images/500x300.png'>"
+date: 2016
 collection: portfolio
 youtubeId: 4fDWD11d9_Y
 ---
