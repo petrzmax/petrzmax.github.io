@@ -230,7 +230,7 @@ We could easily add more weapons without modifying the player class.
 Now, it's time for a diagram.
 This is how the Strategy pattern implemented in our code looks in a diagram:
 
-![A diagram representing the implemented Strategy pattern.](/images/strategy-pattern-diagram.png)
+![A diagram representing the implemented Strategy pattern.](/images/posts/strategy-pattern-diagram.png)
 
 ## Summary
 
