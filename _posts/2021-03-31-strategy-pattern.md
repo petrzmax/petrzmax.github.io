@@ -234,14 +234,14 @@ This is how the Strategy pattern implemented in our code looks in a diagram:
 
 ## Summary
 
-Advantages of using the Strategy pattern:
+### Advantages of using the Strategy pattern
 
 - Reduced number of conditional statements.
 - Ability to choose implementations.
 - Other object types can utilize previously created behaviors as they are no longer hidden in the parent class.
 - Easy addition of new behaviors without modifying existing classes describing previous behaviors and without modifying classes that use them.
 
-Disadvantages:
+### Disadvantages
 
 - Increased communication cost between the client and the strategy (method invocation, data passing).
 - Higher number of objects.
