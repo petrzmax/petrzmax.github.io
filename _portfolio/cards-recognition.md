@@ -1,6 +1,7 @@
 ---
 title: "Recognition of cards in photos"
 excerpt: "Program capable of recognizing cards in an image.<br/><img src='/images/500x300.png'>"
+date: 2017-12-15
 collection: portfolio
 ---
 

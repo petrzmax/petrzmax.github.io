@@ -1,6 +1,7 @@
 ---
 title: "Personal Budget"
 excerpt: "An application for monitoring incomes and expenses.<br/><img src='/images/500x300.png'>"
+date: 2021-02-27
 collection: portfolio
 youtubeId: -DjC9TOgsMY
 ---

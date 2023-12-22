@@ -1,6 +1,7 @@
 ---
 title: "Weather App"
 excerpt: "A window program created in Java using JavaFx.<br/><img src='/images/500x300.png'>"
+date: 2021-10-10
 collection: portfolio
 ---
 

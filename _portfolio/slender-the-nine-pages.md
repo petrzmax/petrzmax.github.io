@@ -1,6 +1,7 @@
 ---
 title: "Slender: The Nine Pages"
 excerpt: "My first serious IT project.<br/><img src='/images/500x300.png'>"
+date: 2013-02-03
 collection: portfolio
 youtubeId: 2M-dO7_UKhY
 ---

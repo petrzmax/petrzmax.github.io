@@ -1,6 +1,7 @@
 ---
 title: "PingPong"
 excerpt: "A window game created in C++ using Builder 6.<br/><img src='/images/500x300.png'>"
+date: 2021-03-04
 collection: portfolio
 ---
 
