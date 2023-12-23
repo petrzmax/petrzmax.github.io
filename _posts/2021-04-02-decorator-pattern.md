@@ -1,7 +1,7 @@
 ---
 title: 'Decorator pattern'
 date: 2021-04-02
-permalink: /posts/design-patterns/decorator-pattern/
+permalink: /posts/design-patterns/decorator/
 tags:
   + coding
   + design patterns

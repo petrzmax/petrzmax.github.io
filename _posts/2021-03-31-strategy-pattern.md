@@ -1,7 +1,7 @@
 ---
 title: 'Strategy pattern'
 date: 2021-03-31
-permalink: /posts/design-patterns/strategy-pattern/
+permalink: /posts/design-patterns/strategy/
 tags:
   + coding
   + design patterns
