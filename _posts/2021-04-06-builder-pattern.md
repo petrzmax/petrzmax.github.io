@@ -14,7 +14,6 @@ Before delving into it, let's start with creating some sample code.
 Let's say we need a class whose object represents a house.
 While creating it, we'll be able to set its parameters such as the number of floors, floor height, number of bathrooms, and so on.
 
-
 ```java
 public class House {
     int numberOfFloors;
