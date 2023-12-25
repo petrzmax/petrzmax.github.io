@@ -3,9 +3,9 @@ title: 'Test Driven Development'
 date: 2021-06-18
 permalink: /posts/coding/test-driven-development/
 tags:
-  + coding
-  + agile
-  + methodology
+  coding
+  agile
+  methodology
 ---
 
 Test Driven Development (TDD), a methodology in programming, which falls under the agile methodologies.

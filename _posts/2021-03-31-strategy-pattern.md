@@ -3,8 +3,8 @@ title: 'Strategy pattern'
 date: 2021-03-31
 permalink: /posts/design-patterns/strategy/
 tags:
-  + coding
-  + design patterns
+  coding
+  design patterns
 ---
 
 Before we begin discussing the pattern itself, let's create a simple model of a player that could be used in a game.

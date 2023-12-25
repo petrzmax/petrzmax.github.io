@@ -3,8 +3,8 @@ title: 'Decorator pattern'
 date: 2021-04-02
 permalink: /posts/design-patterns/decorator/
 tags:
-  + coding
-  + design patterns
+  coding
+  design patterns
 ---
 
 Today, we'll discuss another design pattern!

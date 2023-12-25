@@ -3,8 +3,8 @@ title: 'Builder pattern'
 date: 2021-04-06
 permalink: /posts/design-patterns/builder/
 tags:
-  + coding
-  + design patterns
+  coding
+  design patterns
 ---
 
 Every programmer sooner or later encounters a class that requires passing multiple parameters to create its object.
