@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "About me"
+title: "👋 Hello there!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-
 
 ### Tech stack
 
