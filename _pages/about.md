@@ -22,13 +22,13 @@ I have a strong need to develop my skills and learn new things — I like to mov
 
 I encourage you to check out my coding portfolio [here](/portfolio/).
 
-### Mottos
+### 🧭 Mottos
 
 - Sharing is caring
 - An hour of planning can save you 10 hours of doing
 - Done is better than perfect
 
-### Key values
+### 💎 Key values
 
 - Honesty
 - Transparency
@@ -62,7 +62,7 @@ I like to spend my free time on self-improvement or meeting up with friends.
 When the sun is shining, I enjoy cycling or spending time in nature environment.
 Occasionally, I play the guitar or work on developing my YouTube channel dedicated to various DIY projects and 3D printing.
 
-## Other achievements
+## 🏆 Other achievements
 
 ### Social Media
 
