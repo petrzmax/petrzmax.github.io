@@ -43,6 +43,7 @@ I encourage you to check out my coding portfolio [here](/portfolio/).
 - Teamwork
 - Communication
 - Analytical skills
+- Setting up priorities
 - Adaptability
 
 ### Tech stack
