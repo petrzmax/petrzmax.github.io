@@ -20,7 +20,7 @@ I find it a refreshing experience 😇
 I always strive to organize my work in a way that allows me to be as productive as possible.
 I have a strong need to develop my skills and learn new things — I like to move forward.
 
-I encourage you to check out my coding portfolio [here](/portfolio/).
+Check out my coding portfolio [here](/portfolio/).
 
 ### 🧭 Mottos
 
