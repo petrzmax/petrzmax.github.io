@@ -1,6 +1,6 @@
 ---
-title: "Dev-roulette WIP"
-excerpt: "Web Roulette with on-site JS bots scripting. Java, Spring, React."
+title: "Dev-roulette [WIP]"
+excerpt: "Web Roulette with on-site JS bots scripting.<br/>**Tech Stack:** Java, Spring, React"
 date: 2024-04-28
 collection: portfolio
 ---
