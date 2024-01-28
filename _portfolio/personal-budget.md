@@ -1,6 +1,6 @@
 ---
 title: "Personal Budget"
-excerpt: "An application for monitoring incomes and expenses.<br/><img src='/images/500x300.png'>"
+excerpt: "An application for monitoring incomes and expenses.<br/>**Tech Stack:** PHP, Twig, JavaScript"
 date: 2021-02-27
 collection: portfolio
 youtubeId: -DjC9TOgsMY

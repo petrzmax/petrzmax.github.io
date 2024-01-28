@@ -1,6 +1,6 @@
 ---
 title: "Weather App"
-excerpt: "A window app displaying the weather forecast.<br/>Tech Stack: Java, JavaFx"
+excerpt: "A window app displaying the weather forecast.<br/>**Tech Stack:** Java, JavaFx"
 date: 2021-10-10
 collection: portfolio
 ---

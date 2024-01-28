@@ -7,7 +7,7 @@ collection: portfolio
 
 ## This project is **Work in Progress**! Hit me on **GitHub** if you want to contribute
 
-### Tech stack: Java, Spring, React
+### Tech Stack: Java, Spring, React
 
 Web application inspired by **csgodouble**, which back in the days allowed Counter-Strike: Global Offensive players, to exchange their skins for credits, and bet them on roulette results.
 There were many conspiracy theories regarding controlling the roulette results by the owners, or modulating them in the night hours to make bots created by players fail.
