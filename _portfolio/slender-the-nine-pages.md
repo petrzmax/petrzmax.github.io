@@ -1,6 +1,6 @@
 ---
 title: "Slender: The Nine Pages"
-excerpt: "My first serious IT project.<br/>**Tech Stack:** Unity, C#, Blender, Gimp"
+excerpt: "A survival horror game where player navigate a dark basement in a quest to collect nine pages while evading the relentless pursuit of the ominous Slender Man.<br/>**Tech Stack:** Unity, C#, Blender, Gimp"
 date: 2013-02-03
 collection: portfolio
 youtubeId: 2M-dO7_UKhY

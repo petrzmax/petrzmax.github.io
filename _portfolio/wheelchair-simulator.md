@@ -1,6 +1,6 @@
 ---
 title: "Wheelchair Simulator"
-excerpt: "Project developed as a part of my engineering thesis.<br/>**Tech Stack:** Unity, C#, Blender, Gimp"
+excerpt: "A multimedia application showing the world from the perspective of a wheelchair user.<br/>**Tech Stack:** Unity, C#, Blender, Gimp"
 date: 2019-06-27
 collection: portfolio
 youtubeId: fHRqzeeoKZg
