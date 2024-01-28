@@ -1,6 +1,6 @@
 ---
 title: "Wheelchair Simulator"
-excerpt: "Project developed as a part of my engineering thesis.<br/><img src='/images/500x300.png'>"
+excerpt: "Project developed as a part of my engineering thesis.<br/>Tech Stack: Unity, C#, Blender, Gimp"
 date: 2019-06-27
 collection: portfolio
 youtubeId: fHRqzeeoKZg
