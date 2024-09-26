@@ -38,6 +38,7 @@ Check out my coding portfolio [here](/portfolio/).
 
 - Adaptability
 - Analytical skills
+- Attention to detail
 - Communication
 - Creativity
 - Open minded
