@@ -36,15 +36,16 @@ Check out my coding portfolio [here](/portfolio/).
 
 ### 💡 Soft skills
 
-- Problem-solving
-- Creativity
-- Thinking outside the box
-- Open minded
-- Teamwork
-- Communication
-- Analytical skills
-- Setting up priorities
 - Adaptability
+- Analytical skills
+- Communication
+- Creativity
+- Open minded
+- Prioritizing tasks
+- Problem-solving
+- Teamwork
+- Thinking outside the box
+- Time management
 
 ### 📚 Tech stack
 
