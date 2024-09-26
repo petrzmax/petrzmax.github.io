@@ -15,7 +15,6 @@ Studies satisfied my curiosity and need for understanding topics related to elec
 This last field has always been my passion, so after completing my studies, I decided to further develop myself in this direction.
 
 Currently, I'm working as a Java Developer, who is doing front-end from time to time.
-I find it a refreshing experience 😇
 
 I always strive to organize my work in a way that allows me to be as productive as possible.
 I have a strong need to develop my skills and learn new things — I like to move forward.
@@ -24,6 +23,7 @@ Check out my coding portfolio [here](/portfolio/).
 
 ### 🧭 Mottos
 
+- Less is more
 - Sharing is caring
 - An hour of planning can save you 10 hours of doing
 - Done is better than perfect
@@ -34,7 +34,7 @@ Check out my coding portfolio [here](/portfolio/).
 - Transparency
 - Conscientiousness
 
-### Soft skills
+### 💡 Soft skills
 
 - Problem-solving
 - Creativity
@@ -46,21 +46,20 @@ Check out my coding portfolio [here](/portfolio/).
 - Setting up priorities
 - Adaptability
 
-### Tech stack
+### 📚 Tech stack
 
-- Java 17
-- Spring
-- Maven
+- Java 17, Spring, Spring Boot, Maven
+- Basic Angular
 
-### Tools
+### 🛠️ Tools
 
-- Jira, Xray, Miro, Gerrit, Sharepoint
+- Git, Gerrit, GitHub, Jira, Xray, Postman, Miro, Sharepoint
 
-### Free time
+### 💡 Free time
 
 I like to spend my free time on self-improvement or meeting up with friends.
-When the sun is shining, I enjoy cycling or spending time in nature environment.
-Occasionally, I play the guitar or work on developing my YouTube channel dedicated to various DIY projects and 3D printing.
+When the sun is shining, I enjoy cycling and spending time in nature environment.
+Occasionally, I play the guitar or work on my YouTube channel dedicated to various DIY projects and 3D printing.
 
 ## 🏆 Other achievements
 
