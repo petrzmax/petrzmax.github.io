@@ -50,7 +50,7 @@ Check out my coding portfolio [here](/portfolio/).
 
 ### 📚 Tech stack
 
-- Java 17, Spring, Spring Boot, PostgreSQL, Maven
+- Java 17, Spring, Spring Boot, PostgreSQL, Maven, Kafka
 - Basic Angular
 
 ### 🛠️ Tools
