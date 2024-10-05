@@ -15,7 +15,6 @@ Studies satisfied my curiosity and need for understanding topics related to elec
 This last field has always been my passion, so after completing my studies, I decided to further develop myself in this direction.
 
 Currently, I'm working as a Java Developer, who is doing front-end from time to time.
-
 I always strive to organize my work in a way that allows me to be as productive as possible.
 I have a strong need to develop my skills and learn new things — I like to move forward.
 
@@ -51,11 +50,13 @@ Check out my coding portfolio [here](/portfolio/).
 ### 📚 Tech stack
 
 - Java 17, Spring, Spring Boot, PostgreSQL, Maven, Kafka
-- Basic Angular
+- Mockito, JMockit, TestNG, JUnit
+- Basic Angular, NgRx
 
 ### 🛠️ Tools
 
-- Git, Gerrit, GitHub, Jira, Xray, Postman, Miro, Sharepoint
+- IntelliJ, VSC, Git, Gerrit, GitHub, Jenkins, Postman, JMeter
+- Jira, Xray, Miro, Sharepoint
 
 ### 💡 Free time
 
@@ -67,7 +68,7 @@ Occasionally, I play the guitar or work on my YouTube channel dedicated to vario
 
 ### Social Media
 
-I'm running a YouTube channel since 2017, which gained over 66,000 subscribers and 14,000,000 views so far.
+I'm running a YouTube channel since 2017, which gained over 67K subscribers and 14M views so far.
 I also manage an associated Facebook profile - [ArtekDiy](https://www.facebook.com/ArtekDiy/) and a group - [Majstry Artka](https://www.facebook.com/groups/MajstryArtka/).
 
 ### Online courses and tutorials
