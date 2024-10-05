@@ -52,6 +52,7 @@ Check out my coding portfolio [here](/portfolio/).
 - Java 17, Spring, Spring Boot, PostgreSQL, Maven, Kafka
 - Mockito, JMockit, TestNG, JUnit
 - Basic Angular, NgRx
+- Design patterns
 
 ### 🛠️ Tools
 
