@@ -57,7 +57,7 @@ Check out my coding portfolio [here](/portfolio/).
 ### 🛠️ Tools
 
 - IntelliJ, VSC, Git, Gerrit, GitHub, Jenkins, Postman, JMeter
-- Jira, Xray, Miro, Sharepoint
+- Teams, Jira, Xray, Miro, Sharepoint
 
 ### 💡 Free time
 
