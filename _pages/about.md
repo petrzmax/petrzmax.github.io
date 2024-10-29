@@ -49,9 +49,15 @@ Check out my coding portfolio [here](/portfolio/).
 
 ### 📚 Tech stack
 
-- Java 17, Spring, Spring Boot, Liquibase, PostgreSQL, Maven, Kafka
+#### Languages
+
+- Java 17, SQL, JavaScript, TypeScript, HTML
+
+#### Technologies
+
+- Spring, Spring Boot, Liquibase, PostgreSQL, Maven, Kafka
 - Mockito, JMockit, TestNG, JUnit
-- Basic Angular, NgRx
+- Basic Angular 18, NgRx
 - Design patterns
 
 ### 🛠️ Tools
