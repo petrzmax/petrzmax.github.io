@@ -56,7 +56,7 @@ Check out my coding portfolio [here](/portfolio/).
 - Spring, Spring Boot, Liquibase, PostgreSQL, Maven, Kafka
 - Mockito, JMockit, TestNG, JUnit
 - Basic Angular 18, NgRx
-- Design patterns
+- REST API, Design patterns
 
 ### 🛠️ Tools
 
