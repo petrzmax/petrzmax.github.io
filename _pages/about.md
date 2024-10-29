@@ -47,13 +47,11 @@ Check out my coding portfolio [here](/portfolio/).
 - Thinking outside the box
 - Time management
 
-### 📚 Tech stack
-
-#### Languages
+### 💻 Languages
 
 - Java 17, SQL, JavaScript, TypeScript, HTML
 
-#### Technologies
+### 📚 Technologies
 
 - Spring, Spring Boot, Liquibase, PostgreSQL, Maven, Kafka
 - Mockito, JMockit, TestNG, JUnit
