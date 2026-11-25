@@ -49,7 +49,7 @@ I’m curious about emotions, relationships, and how the subconscious mind shape
 
 - Less is more
 - Sharing is caring
-- An hour of planning can save you 10 hours of doing
+- An hour of planning can save you ten hours of work.
 - Done is better than perfect
 
 ### 💎 Key values
@@ -65,7 +65,7 @@ I’m curious about emotions, relationships, and how the subconscious mind shape
 - Attention to detail
 - Communication
 - Creativity
-- Open minded
+- Open-mindedness
 - Prioritizing tasks
 - Problem-solving
 - Teamwork
