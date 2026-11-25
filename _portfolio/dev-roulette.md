@@ -1,11 +1,9 @@
 ---
-title: "Dev-roulette [WIP]"
+title: "Dev-roulette"
 excerpt: "Web Roulette with on-site JS bots scripting.<br/>**Tech Stack:** Java, Spring, React"
 date: 2024-04-28
 collection: portfolio
 ---
-
-## This project is **Work in Progress**! Hit me on **GitHub** if you want to contribute
 
 ### Tech Stack: Java, Spring, React
 
@@ -21,4 +19,4 @@ The main purpose of this project is combining curiosity, fun, coding, and JS edu
 
 It's also my space to test ideas, which later on I can effectively introduce at work.
 
-The code is available [here](https://github.com/petrzmax/dev-roulette).
+[View the source code](https://github.com/petrzmax/dev-roulette)
