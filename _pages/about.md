@@ -10,9 +10,9 @@ redirect_from:
 
 I’m Artur, a software engineer with a background in mechatronics. In 2019, I graduated from Warsaw University of Technology with a degree in Mechatronics and a specialization in Multimedia Techniques. I like figuring out how things work, especially when something behaves differently than expected. That curiosity has led me to track down performance problems in production software and build a simple physics engine for a game of my own.
 
-Minimalism and essentialism shape how I approach problems. I like to step back, figure out what actually matters, and simplify the rest. In my experience, the simplest solution that does the job is usually the best one.
+Minimalism and essentialism shape how I approach problems. I like to step back, figure out what actually matters, and simplify the rest. In my experience, the simplest solution is usually the best one.
 
-I enjoy projects where I can ask questions, try out an idea, and see what happens. I also love sharing what I learn, whether I’m talking through a problem with a colleague or turning a hands-on project into a tutorial that someone else can follow.
+I enjoy projects where I can ask questions, try out new ideas, and see what happens. I also love sharing what I learn, whether I’m talking through a problem with a colleague or turning a hands-on project into a tutorial that someone else can follow.
 
 [Explore my portfolio](/portfolio/)
 
