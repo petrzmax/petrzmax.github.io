@@ -8,17 +8,42 @@ redirect_from:
   - /about.html
 ---
 
-My name is Artur Petrzak, and I am a mechatronics engineer.
-In 2019, I graduated from the Warsaw University of Technology with a specialization in Multimedia Techniques at the Faculty of Mechatronics.
+I’m Artur, a software engineer with a background in mechatronics. In 2019, I graduated from Warsaw University of Technology with a degree in Mechatronics and a specialization in Multimedia Techniques. I like figuring out how things work, especially when something behaves differently than expected. That curiosity has led me to track down performance problems in production software and build a simple physics engine for a game of my own.
 
-Studies satisfied my curiosity and need for understanding topics related to electronics, microcontrollers, sound & image processing, and programming.
-This last field has always been my passion, so after completing my studies, I decided to further develop myself in this direction.
+Minimalism and essentialism shape how I approach problems. I like to step back, figure out what actually matters, and simplify the rest. In my experience, the simplest solution that does the job is usually the best one.
 
-Currently, I'm working as a Java Developer, who is doing front-end from time to time.
-I always strive to organize my work in a way that allows me to be as productive as possible.
-I have a strong need to develop my skills and learn new things — I like to move forward.
+I enjoy projects where I can ask questions, try out an idea, and see what happens. I also love sharing what I learn, whether I’m talking through a problem with a colleague or turning a hands-on project into a tutorial that someone else can follow.
 
-Check out my coding portfolio [here](/portfolio/).
+[Explore my portfolio](/portfolio/)
+
+## 🎥 YouTube, courses and collaborations
+
+### Social Media
+
+I started [my YouTube channel](https://www.youtube.com/@ArturPetrzak) in 2017 to share my DIY and 3D printing projects. Since then, over 67,000 people have subscribed, and my videos have reached 14 million views.
+I also manage the [ArtekDiy Facebook page](https://www.facebook.com/ArtekDiy/) and the [Majstry Artka group](https://www.facebook.com/groups/MajstryArtka/).
+
+### Online courses and tutorials
+
+I’ve created technical tutorials for YouTube and worked with Piotr Cichalewski on several online courses for [techtutor.pl](https://techtutor.pl).
+
+- [3D modeling in Fusion 360](https://kursy.techtutor.pl/kurs/modelowanie-3d-w-fusion-360/)
+- [3D modeling for 3D printing](https://kursy.techtutor.pl/kurs/modelowanie-3d-pod-druk-3d/)
+- [Inventor Basics](https://kursy.techtutor.pl/kurs/inventor-podstawy/)
+
+### Brand collaborations
+
+I reviewed 3D printers and other electronics for my channel. I contacted manufacturers and retailers directly and negotiated the terms of each collaboration. Brands I’ve worked with include Anycubic, Creality, RatRig, Tevo, Gearbest and Banggood.
+
+## 🎭 Outside of work
+
+I started taking improv classes to meet new people and feel more at ease approaching them. Improv has helped me trust myself more and feel more comfortable both in everyday conversations and on stage.
+
+I enjoy spending time with friends and going for bike rides when the weather is warm. Most of my DIY projects these days start with something that needs fixing, either at home or on my car. Figuring out the repair is often part of the fun.
+
+I’m curious about emotions, relationships, and how the subconscious mind shapes what we do. That curiosity also drew me to hypnosis. Another long-standing interest of mine is the stock market, where I combine long-term investing with swing trading.
+
+## Other
 
 ### 🧭 Mottos
 
@@ -46,50 +71,3 @@ Check out my coding portfolio [here](/portfolio/).
 - Teamwork
 - Thinking outside the box
 - Time management
-
-### 💻 Languages
-
-- Java 17, SQL, JavaScript, TypeScript, HTML
-
-### 📚 Technologies
-
-- Spring, Spring Boot, Liquibase, PostgreSQL, Maven, Kafka
-- Mockito, JMockit, TestNG, JUnit
-- Basic Angular 18, NgRx
-- REST API, Design patterns
-- SCRUM, Agile Methodologies, CI/CD
-
-### 🛠️ Tools
-
-- IntelliJ, VSC, Git, Gerrit, GitHub, Jenkins, Postman, JMeter
-- Teams, Microsoft Office, Jira, Xray, Miro, Sharepoint
-- Mac, Windows, Linux
-
-### 💡 Free time
-
-I like to spend my free time on self-improvement or meeting up with friends.
-When the sun is shining, I enjoy cycling and spending time in nature environment.
-Occasionally, I play the guitar or work on my YouTube channel dedicated to various DIY projects and 3D printing.
-
-## 🏆 Other achievements
-
-### Social Media
-
-I'm running a YouTube channel since 2017, which gained over 67K subscribers and 14M views so far.
-I also manage an associated Facebook profile - [ArtekDiy](https://www.facebook.com/ArtekDiy/) and a group - [Majstry Artka](https://www.facebook.com/groups/MajstryArtka/).
-
-### Online courses and tutorials
-
-I've created many technical tutorials for YouTube, and collaborated on several commercial online courses with **Piotr Cichalewski** from the [techtutor.pl](https://techtutor.pl) portal.
-
-- [3D modeling in Fusion 360](https://kursy.techtutor.pl/kurs/modelowanie-3d-w-fusion-360/)
-- [3D modeling for 3D printing](https://kursy.techtutor.pl/kurs/modelowanie-3d-pod-druk-3d/)
-- [Inventor Basics](https://kursy.techtutor.pl/kurs/inventor-podstawy/)
-
-### Direct collaboration with numerous international brands
-
-Creation of 3D Printers and other electronic devices reviews, negotiation of deals conditions, identifying and reaching out to companies that might be interested in collaboration.
-
-The most recognizable brands I worked with:
-
-- Anycubic, Creality, RatRig, Tevo, Gearbest, Banggood
